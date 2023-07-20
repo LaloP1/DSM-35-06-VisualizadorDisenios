@@ -18,7 +18,7 @@
         rel="stylesheet">
 
     <!-- Custom styles for this template-->
-    <link href="http://localhost/previsualizador/resource/css/sb-admin-2.min.css" rel="stylesheet">
+    <link href="http://localhost/Proyecto_Integrador/DSM-35-06-VisualizadorDisenios/previsualizador/resource/css/sb-admin-2.min.css" rel="stylesheet">
     <script src="https://kit.fontawesome.com/07bf2ec53c.js" crossorigin="anonymous"></script>
 </head>
 
@@ -42,7 +42,7 @@
 
             <!-- Nav Item - Dashboard -->
             <li class="nav-item active">
-                <a class="nav-link" href="http://localhost/previsualizador/">
+                <a class="nav-link" href="http://localhost/Proyecto_Integrador\DSM-35-06-VisualizadorDisenios\previsualizador">
                 <i class="fa-sharp fa-solid fa-house"></i>
                     <span>Inicio</span></a>
             </li>
@@ -110,42 +110,42 @@
 
             <!-- Nav Item - Tables -->
             <li class="nav-item">
-                <a class="nav-link" href="#">
+                <a class="nav-link" href="http://localhost/Proyecto_Integrador\DSM-35-06-VisualizadorDisenios\previsualizador/views/products/index.php">
                     <i class="fas fa-fw fa-table"></i>
                     <span>Productos</span></a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">
+                <a class="nav-link" href="http://localhost/Proyecto_Integrador\DSM-35-06-VisualizadorDisenios\previsualizador/views/categories/index.php">
                     <i class="fas fa-fw fa-table"></i>
                     <span>Categorias</span></a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">
+                <a class="nav-link" href="http://localhost/Proyecto_Integrador\DSM-35-06-VisualizadorDisenios\previsualizador/views/clients/index.php">
                     <i class="fas fa-fw fa-table"></i>
                     <span>Clientes</span></a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">
+                <a class="nav-link" href="http://localhost/Proyecto_Integrador\DSM-35-06-VisualizadorDisenios\previsualizador/views/users/index.php">
                     <i class="fas fa-fw fa-table"></i>
                     <span>Ususarios</span></a>
             </li>
          
             <li class="nav-item">
-                <a class="nav-link" href="#">
+                <a class="nav-link" href="http://localhost/Proyecto_Integrador\DSM-35-06-VisualizadorDisenios\previsualizador/views/clients/index.php">
                     <i class="fas fa-fw fa-table"></i>
                     <span>Subcategorias</span></a>
 
             </li>
 
             <li class="nav-item">
-                <a class="nav-link" href="#">
+                <a class="nav-link" href="http://localhost/previsualizador/views/estado/index.php">
                     <i class="fas fa-fw fa-table"></i>
                     <span>estado</span></a>
 
             </li>
 
             <li class="nav-item">
-                <a class="nav-link" href="#">
+                <a class="nav-link" href="http://localhost/Proyecto_Integrador\DSM-35-06-VisualizadorDisenios\previsualizador/views/municipio/index.php">
                     <i class="fas fa-fw fa-table"></i>
                     <span>Municipio</span></a>
 
